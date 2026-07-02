@@ -59,18 +59,15 @@ Configured an S3 bucket with access-control policies, set up IAM roles using lea
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-kaif123&show_icons=true&theme=radical" alt="Kaif's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-kaif123&theme=radical" alt="Kaif's Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-kaif123&show_icons=true&theme=radical&cache_seconds=0" alt="Kaif's GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Mohd-kaif123&theme=radical" alt="Kaif's Streak" height="165"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-kaif123&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-kaif123&layout=compact&theme=radical&cache_seconds=0" alt="Top Languages" height="165"/>
 </p>
 
 ---
-
 ### 📫 Connect with me
 📧 mansoorikaif365@gmail.com&nbsp; | &nbsp;🔗 [LinkedIn](https://linkedin.com/in/mohdkaifmansoori)
 
